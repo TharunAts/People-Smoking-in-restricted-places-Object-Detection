@@ -4,7 +4,7 @@ Smoking cigarettes affects the respiratory system, the circulatory system, the r
 Clone the darknet repository https://github.com/pjreddie/darknet and follow the steps as mentioned below. \
 Create darknet environment which works with GPU.\
 You can follow detailed instructions at https://pjreddie.com/darknet/install/#cuda. But its so tedious.\
-Instead you can use cloud GPU(Paperspace) which comes with default darknet environment.
+Instead you can use cloud GPU(Paperspace) or Google colab which comes with default darknet environment.
 ### Step 2 ###
 Create your own cfg file(yolov3-tiny1) based on current objects(In our case Smoking and No_Smoking_Area).\
 You have to edit yolov3-tiny.cfg.Change the number of filters to 21(classes+5)*3.\
