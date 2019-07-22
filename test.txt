@@ -1,0 +1,2 @@
+data/obj/01.jpg
+data/obj/02.jpg
