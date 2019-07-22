@@ -1,5 +1,5 @@
 # People-smoking-in-restricted-places
-Detecting People who smoke in restricted places(Non-Smoking Areas) and inform to corresponding officials.
+Smoking cigarettes affects the respiratory system, the circulatory system, the reproductive system, the skin, and the eyes, and it increases the risk of many different cancers.EVen non-smokers who live in area of smoker have a 20% to 30% increased risk for developing lung cancer.So I developed a system to safeguard non-smokers to some extent.
 ### Step1 ###
 Initially create darknet environment with GPU and OpenCV installed.\
 You can follow detailed instructions at https://pjreddie.com/darknet/install/#cuda. But its so tedious.\
