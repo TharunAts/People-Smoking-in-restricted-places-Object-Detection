@@ -31,4 +31,4 @@ You should stop training when the average loss is less than 1.I trained it for a
 Once the model is trained you can test with custom objects.
 ./darknet detector test data/obj.data yolov3-tiny1.cfg yolo-tiny1_40000.weights
 
-![Screenshot](https://raw.githubusercontent.com/TharunAts/People-smoking-in-restricted-places/predictions/1.jpg)
+![Alt Text](https://ibb.co/jh2Tjh4)
