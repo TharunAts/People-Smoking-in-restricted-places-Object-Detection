@@ -7,7 +7,7 @@ Instead you can use cloud GPU(Paperspace) which comes with default darknet envir
 ### Step 2 ###
 Create your own cfg file(yolov3-tiny1) based on current objects(In our case Smoking and No_Smoking_Area).\
 You have to edit yolov3-tiny.cfg.Change the number of filters to 21(classes+5)*3.\
-Number of classes to 2.U should change these two in 2 places at the yolo layer.
+Number of classes to 2.You should change these two in 2 places at the yolo layer.
 ### Step 3 ###
 Create file obj.names in directory(darknet/data/)  with objects names - each in new line(labels)\
 Create file obj.data  containing (where classes = number of objects):\
