@@ -33,5 +33,6 @@ The new weights of trained model get stored in data folder as mentioned above.
 ### Step 7 ###
 Once the model is trained you can test with custom objects.I have taken weights after 40000 iterations from data folder.\
 ./darknet detector test data/obj.data yolov3-tiny1.cfg yolo-tiny1_40000.weights
-
+### Note ###
+All commands are based on Linux environment
 ![GitHub Logo](/predictions/1.jpg)
