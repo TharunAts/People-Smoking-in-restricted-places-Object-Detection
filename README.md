@@ -17,7 +17,7 @@ valid  = data\test.txt \
 names = data\obj.names \
 data = data\ 
 ### Step 4 ###
-Put image-files (.jpg) of your objects in the directory darknet\data\obj\ \
+Put image-files(collected around 50 images of both classes) of your objects in the directory darknet\data\obj\ \
 You should label each object on images from your dataset. Use this visual GUI-software for marking bounded boxes of objects and generating annotation files for Yolo v2 & v3: https://github.com/AlexeyAB/Yolo_mark \
 It generates .txt file for every image.
 ### Step 5 ###
