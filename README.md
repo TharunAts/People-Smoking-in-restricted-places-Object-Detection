@@ -27,7 +27,7 @@ Download default weights file for yolov3-tiny: https://pjreddie.com/media/files/
 Get pre-trained weights yolov3-tiny.conv.15 using command: darknet.exe partial cfg/yolov3-tiny.cfg yolov3-tiny.weights yolov3-tiny.conv.15 15.
 ### Step 6 ###
 Start training:   /.darknet detector train data/obj.data yolov3-tiny1.cfg yolov3-tiny.conv.15 \
-You should stop training when the average loss is less than 1.I trained it for around 10,000 steps to get an average loss of 0.673.\
+You should stop training when the average loss is less than 1.I trained it for around 10,000 steps to get an average loss of 0.673.
 The new weights of trained model get stored in data folder as mentioned above.
 ### Step 7 ###
 Once the model is trained you can test with custom objects.I have taken weights after 40000 iterations from data folder.\
