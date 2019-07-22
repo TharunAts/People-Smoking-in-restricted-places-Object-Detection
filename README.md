@@ -1,7 +1,7 @@
 # People-smoking-in-restricted-places
 Smoking cigarettes affects the respiratory system, the circulatory system, the reproductive system, the skin, and the eyes, and it increases the risk of many different cancers.Even non-smokers who live in area of smoker have a 20% to 30% increased risk for developing lung cancer.So I developed a system to safeguard non-smokers to some extent by identifying people who smoke in restricted places such as schools,hospitals etc.
 ### Step1 ###
-Clone the darknet repository https://github.com/pjreddie/darknet and follow the steps as mentioned below.
+Clone the darknet repository https://github.com/pjreddie/darknet and follow the steps as mentioned below. \
 Create darknet environment which works with GPU.\
 You can follow detailed instructions at https://pjreddie.com/darknet/install/#cuda. But its so tedious.\
 Instead you can use cloud GPU(Paperspace) which comes with default darknet environment.
